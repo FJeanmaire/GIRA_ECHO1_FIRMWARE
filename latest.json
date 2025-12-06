@@ -1,7 +1,5 @@
 {
-  "version": "1.0.1",
-  "url": "https://github.com/FJeanmaire/GIRA_ECHO1_FIRMWARE/releases/download/v1.0.1/gira-controller-1.0.1.bin",
-  "sha256": "60cdda74cf8bedd64b7ec10c09a4e306ac54939306ab393ab35a3837e254b7f8"
+  "version": "1.0.0",
+  "url": "https://github.com/FJeanmaire/GIRA_ECHO1_FIRMWARE/releases/download/v1.0.0/gira-controller-1.0.0.bin",
+  "sha256": "23469791c996ff0a99d253cdc068b4f421c9d20ddf626bc2264e14dcd88d4846"
 }
-
-
